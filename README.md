@@ -7,7 +7,7 @@
 
 <!-- - 🔭 I’m currently working on [Online Chicken Ordering app. (for local business)](https://chicken-shop.vercel.app/) -->
 
-- 🌱 I’m currently learning **HTML and CSS**
+- 🌱 I’m currently learning **HTML CSS And JavaScript**
 
 - 👯 I’m looking to collaborate with other UI developers
 
