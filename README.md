@@ -18,7 +18,8 @@
 - 📄 Know about my experiences [http://imransahim.com](http://imransahim.com) -->
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> &nbsp; <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>&nbsp;<a href="https://www.w3schools.com/js/default.asp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javaScript/javaScript-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> &nbsp; <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>&nbsp;<a href="https://www.w3schools.com/js/default.asp" target="_blank" rel="noreferrer">
+  <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/javaScript/javaScript-original-wordmark.svg"](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.PHBTJoshbg880IH9z_PB6QHaHa%26pid%3DApi&f=1&ipt=381209ef29ecadc086bb441686357d646d036902c5a3b23b66c641fcc207c36c&ipo=images)" alt="javaScript" width="40" height="40"/></a>
 </p>
 
 <hr />
