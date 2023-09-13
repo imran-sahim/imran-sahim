@@ -19,7 +19,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> &nbsp; <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>&nbsp;<a href="https://www.w3schools.com/js/default.asp" target="_blank" rel="noreferrer">
-  <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/javaScript/javaScript-original-wordmark.svg"]" alt="javaScript" width="40" height="40"/></a>
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.0seOq0CKYWAQpUqkp3APIgHaHl%26pid%3DApi&f=1&ipt=6999ab79c69d5338116438bd69c6836b5c5f316491a89a5db4a1f1e376dccc0c&ipo=images" alt="javaScript" width="40" height="40"/></a>
 </p>
 
 <hr />
